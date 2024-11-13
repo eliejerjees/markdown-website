@@ -1,1 +1,7 @@
-***This will be an awesome website***
+---
+title: Home
+---
+
+This will be an awesome ***website***
+
+[About](about.md)
